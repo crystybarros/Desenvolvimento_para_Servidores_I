@@ -8,6 +8,8 @@ Nome: Cristiane Ap. Barros Pereira
 RA: 2650832323027
 
 
+
+
 1-) Em uma empresa, temos os funcionários, que precisam ser representados em nossa aplicação. Então implemente uma classe chamada Funcionario que contenha dois atributos: o primeiro para o nome e o segundo para o salário dos funcionários. 
 
 2-) Faça uma classe chamada TestaFuncionario e crie dois objetos da classe Funcionario atribuindo valores a eles. Mostre na tela as informações desses objetos. 
